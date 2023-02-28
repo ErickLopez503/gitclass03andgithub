@@ -6,5 +6,7 @@ public class gitAndGithub {
 		
 		System.out.println("today we learn github");
 		System.out.println("Today is a really good day");
+		
+		System.out.println("Este es un nuevo push * ");
 	}
 }
